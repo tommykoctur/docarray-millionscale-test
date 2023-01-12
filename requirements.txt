@@ -1,1 +1,3 @@
 docarray[annlite]
+jupyter
+numpy
